@@ -1,7 +1,7 @@
 # Storytelling with data
 
 This project was inspired by Cole's exercise from the book "Storytelling with data: Let's Practice". <br>
-You can find the description and instructions in this <a href="https://community.storytellingwithdata.com/exercises/one-little-changeand-a-redesign" target="_blank" rel="noopener noreferrer">link</a>. 
+You can find the description and instructions in this <a target="_blank" rel="noopener noreferrer" href="https://community.storytellingwithdata.com/exercises/one-little-changeand-a-redesign">link</a>. 
 
 ## **Problem** 
 
