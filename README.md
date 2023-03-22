@@ -34,12 +34,12 @@ We can conclude that:
   - In 2017, the average was 285
   - In 2018, the average was 268 (a reduction of 6%)
   - In 2019, the average was 200 (a reduction of 25.4%) 
-* There were dealerships that had an increase of the years (Picture 3), such as:
+* There were dealerships that had an increase over the years (Picture 3), such as:
   - Filmore (TOP 3 in sales): 3.5% increase
   - Orly: 23.5% increase 
   - Mare Valley (BOTTOM 1 in sales): 37.5% increase 
 * The dealerships with the highest reduction were (Picture 3): 
   - Oakley with a 39.3% reduction, 
   - Westlake with a 38.6% reduction 
-* The company should conduct an investigation into the steepest decline in car sales at Oakley and Westlake. In addition, Sealy, which has accumulated a reduction of 29% in car sales over the analyzed period, should also be closely monitored despite ranking fourth in terms of car sales. Also monitor and, if possible, investigate these dealerships reduction of over 20%: Rosedale, Draper, Beacon, Southlake and Pierce. 
-* And the company should also provide encouragement to dealerships that managed to maintain their sales performance despite the overall negative trend.
+* The company should conduct an investigation into the steepest decline in car sales at Oakley and Westlake. In addition, Sealy, which has accumulated a reduction of 29% in car sales over the analyzed period, should also be closely monitored despite ranking fourth in terms of car sales. Also monitor and, if possible, investigate these dealerships that had a reduction of over 20%: Rosedale, Draper, Beacon, Southlake and Pierce. 
+* And the company should also provide encouragement to dealerships that managed to maintain their sales performance despite the overall negative trend (such as seen in the third bullet point).
